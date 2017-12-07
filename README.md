@@ -32,7 +32,7 @@ sudo apt-get install sshpass
 ./backup.sh -c backup.conf -d [DIRETORIO_MONITORADO] -t [TEMPO_DE_VERIFICACAO_EM_SEGUNDOS]
 ```
 
-## Autores
+### Autores
 
 * **Calebe Tavares** [facebook](https://www.facebook.com/calebe.tavares) 
 * **Daniel Oliveira** [facebook](https://www.facebook.com/Daniel.krt500) 
@@ -40,10 +40,10 @@ sudo apt-get install sshpass
 * **Matheus Cavalcante** [facebook](https://www.facebook.com/antoniomatheus.cavalcantedasilva)  
 * **Jefferson Severo** [facebook](https://www.facebook.com/jefferson.severo.16)
 
-## Licença
+### Licença
 
 Licença livre com liberdade de executar, estudar, adaptá-lo e aperfeiçoar e redistribuir seus aperfeiçoamentos, de modo que toda a comunidade possa se beneficiar.
 
-## Referência
+### Referência
 
 https://www.vivaolinux.com.br/dica/sshpass-Passando-senha-como-parametro-no-SSH-e-scp-sem-registro-de-chave-publica
