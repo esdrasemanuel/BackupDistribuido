@@ -14,15 +14,15 @@ Exemplo backup.conf:
 
 Instalar o SSH e SSHPASS:
 
-`` `
+````
 apt-get install openssh-server
 
-`` `
+```
 
-`` `
+```
 sudo apt-get install sshpass
 
-`` `
+```
 
 ### Instalanção do Script
 
