@@ -14,7 +14,7 @@ Exemplo backup.conf:
 
 Instalar o SSH e SSHPASS:
 
-````
+```
 apt-get install openssh-server
 
 ```
