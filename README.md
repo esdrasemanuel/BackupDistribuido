@@ -35,7 +35,11 @@ sudo apt-get install sshpass
 
 ## Autores
 
-* **Calebe Tavares** [facebook](https://www.facebook.com/calebe.tavares) * **Daniel Oliveira** [facebook](https://www.facebook.com/Daniel.krt500) * **Esdras Emanuel** [facebook](https://www.facebook.com/emanuel.mariano.376)  * **Matheus Cavalcante** [facebook](https://www.facebook.com/antoniomatheus.cavalcantedasilva)  * **Jefferson Severo** [facebook](https://www.facebook.com/jefferson.severo.16)
+* **Calebe Tavares** [facebook](https://www.facebook.com/calebe.tavares) 
+* **Daniel Oliveira** [facebook](https://www.facebook.com/Daniel.krt500) 
+* **Esdras Emanuel** [facebook](https://www.facebook.com/emanuel.mariano.376)  
+* **Matheus Cavalcante** [facebook](https://www.facebook.com/antoniomatheus.cavalcantedasilva)  
+* **Jefferson Severo** [facebook](https://www.facebook.com/jefferson.severo.16)
 
 ## Licença
 
