@@ -25,7 +25,7 @@ sudo apt-get install sshpass
 
 ### Instalanção do Script
 
-- 1 - Baixa o arquivo backup.sh e backup.conf
+- 1 - Baixa os arquivos backup.sh, backup.conf e backupOperations.sh
 - 2 - Dar permissão de execução para backup.sh e backupOperations.sh:  
 ```
 chmod +x backup.sh
