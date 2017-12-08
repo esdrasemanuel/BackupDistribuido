@@ -12,8 +12,8 @@ Exemplo backup.conf:
 
 ### Pré-requisitos
 
-Local: Ter Instalado SSH e SSHPASS
-Remoto: Ter Instalado SSH
+- Local: Ter Instalado SSH e SSHPASS
+- Remoto: Ter Instalado SSH
 
 ```
 apt-get install openssh-server
