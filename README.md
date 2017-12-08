@@ -33,7 +33,7 @@ chmod +x backup.sh
 ```
 chmod +x backupOperations.sh
 ```
-- 3 - Editar o arquivo de configuração [backup.conf] com os hosts em que irá manter o backup
+- 3 - Editar o arquivo de configuração [backup.conf] com os hosts em que irão manter o backup
 - 4 - Executar da seguinte maneira: 
 ```
 ./backup.sh -c backup.conf -d [DIRETORIO_MONITORADO] -t [TEMPO_DE_VERIFICACAO_EM_SEGUNDOS]
