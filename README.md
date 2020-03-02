@@ -44,10 +44,10 @@ Ctrl A + D
 ```
 ### Autores
 
-* **Calebe Tavares :** [facebook](https://www.facebook.com/calebe.tavares) 
+* **Calebe Tavares :** [linkedin](https://www.linkedin.com/in/calebe-tavares-056139119/) 
 * **Daniel Oliveira :** [facebook](https://www.facebook.com/Daniel.krt500) 
-* **Esdras Emanuel :** [facebook](https://www.facebook.com/emanuel.mariano.376)  
-* **Matheus Cavalcante :** [facebook](https://www.facebook.com/antoniomatheus.cavalcantedasilva)  
+* **Esdras Emanuel :** [linkedin](https://www.linkedin.com/in/esdras-emanuel)  
+* **Matheus Cavalcante :** [linkedin](https://www.linkedin.com/in/matheus-cavalcante-228139119/)  
 * **Jefferson Severo :** [facebook](https://www.facebook.com/jefferson.severo.16)
 
 ### Licença
